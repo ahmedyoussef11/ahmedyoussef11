@@ -5,7 +5,7 @@
 I'm a senior Communication and Electronics Engineering student passionate about artificial intelligence and computer vision. My work spans various AI fields, including computer vision, autonomous systems, and machine learning. I’m always eager to learn, collaborate, and contribute to impactful projects.
 
 #### 🎯 Skills 
-Image processing / Computer Vision / Python / C++
+Image processing / Computer Vision / Python / C++ / VHDL
 
 
 #### 📩 Get in Touch
